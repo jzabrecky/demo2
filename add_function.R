@@ -1,6 +1,6 @@
 # this function adds two to a number
-add_two <- function(number) {
-  new_number <- number + 2
+add_three <- function(number) {
+  new_number <- number + 3  
   return(new_number)
 }
 
